@@ -2,7 +2,7 @@
 
 **Note: this repo assumes that you are using Python 3.**
 
-- This is a ~basic~ tool to use in your terminal of choice, to view data on a given pokemon.
+- This is a basic tool to use in your terminal of choice, to view data on a given pokemon.
 
 * Run the below command in your terminal to pull this repo onto your machine.
  ```bash
